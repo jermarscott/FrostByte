@@ -1,0 +1,1012 @@
+fileFormatVersion: 2
+guid: a3ca38dab416ab747a970091683d4e4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3176161463622148533
+    second: dadDown
+  - first:
+      213: 3142790512322478866
+    second: dadRight
+  - first:
+      213: 157327730886603431
+    second: dadUp
+  - first:
+      213: 1994982131392620334
+    second: dadLeft
+  - first:
+      213: 2277661535067320190
+    second: Shimmering Pixel Art Components_4
+  - first:
+      213: -4653642616629576750
+    second: Shimmering Pixel Art Components_5
+  - first:
+      213: -709386888233453195
+    second: bottomLeftSon
+  - first:
+      213: 4015777814435457764
+    second: topLeftSon
+  - first:
+      213: -8993584957702734663
+    second: bottomRightSon
+  - first:
+      213: 3544831400633424384
+    second: topRightSon
+  - first:
+      213: 6090679617065120957
+    second: Shimmering Pixel Art Components_10
+  - first:
+      213: 3366464454085104841
+    second: Shimmering Pixel Art Components_11
+  - first:
+      213: -819209007341247011
+    second: Shimmering Pixel Art Components_12
+  - first:
+      213: 5179865355284697741
+    second: bloodTr
+  - first:
+      213: -8161306441112440727
+    second: Shimmering Pixel Art Components_14
+  - first:
+      213: -5242399182648396652
+    second: Shimmering Pixel Art Components_15
+  - first:
+      213: -2428350513752287664
+    second: Shimmering Pixel Art Components_16
+  - first:
+      213: -7742610402104162644
+    second: sonDown
+  - first:
+      213: -8895116493716822646
+    second: sonRight
+  - first:
+      213: -1432805578947110773
+    second: sonUp
+  - first:
+      213: -8644442288853198752
+    second: sonLeft
+  - first:
+      213: -1801238305537081029
+    second: Shimmering Pixel Art Components_21
+  - first:
+      213: 551569210848938065
+    second: Shimmering Pixel Art Components_22
+  - first:
+      213: -6135213935564022581
+    second: bushBottomsA
+  - first:
+      213: -8440372467224577567
+    second: bloodTracksA
+  - first:
+      213: 7525538766054496456
+    second: Shimmering Pixel Art Components_25
+  - first:
+      213: 3468586623461559028
+    second: bushBottomsB
+  - first:
+      213: 345472700930357929
+    second: bloodTr
+  - first:
+      213: 2290762571402933152
+    second: bushBodyA
+  - first:
+      213: -2116949021904053221
+    second: bushBodyB
+  - first:
+      213: -5955164281106469821
+    second: Shimmering Pixel Art Components_30
+  - first:
+      213: 4849628046393248908
+    second: Shimmering Pixel Art Components_31
+  - first:
+      213: -4016971842397736394
+    second: Shimmering Pixel Art Components_32
+  - first:
+      213: -639083101411009907
+    second: Shimmering Pixel Art Components_33
+  - first:
+      213: -7807574342105793395
+    second: Shimmering Pixel Art Components_34
+  - first:
+      213: 1712252139856472574
+    second: Shimmering Pixel Art Components_35
+  - first:
+      213: 7253126305200411360
+    second: Shimmering Pixel Art Components_36
+  - first:
+      213: 3145121558394365454
+    second: Shimmering Pixel Art Components_37
+  - first:
+      213: 6389291476909510888
+    second: Shimmering Pixel Art Components_38
+  - first:
+      213: 9170520418722926033
+    second: Shimmering Pixel Art Components_39
+  - first:
+      213: 8249842683518323410
+    second: Shimmering Pixel Art Components_40
+  - first:
+      213: -3142518313898150691
+    second: Shimmering Pixel Art Components_41
+  - first:
+      213: -7067574874092486912
+    second: Shimmering Pixel Art Components_42
+  - first:
+      213: 1539233867890666944
+    second: Shimmering Pixel Art Components_43
+  - first:
+      213: 4393790541228523647
+    second: Shimmering Pixel Art Components_44
+  - first:
+      213: 4437987523534632591
+    second: Shimmering Pixel Art Components_45
+  - first:
+      213: 7337459412598852337
+    second: Shimmering Pixel Art Components_46
+  - first:
+      213: -5985578008465183507
+    second: Shimmering Pixel Art Components_47
+  - first:
+      213: -6494670535146580037
+    second: Shimmering Pixel Art Components_48
+  - first:
+      213: 4382724919402082385
+    second: Shimmering Pixel Art Components_49
+  - first:
+      213: 714392596960833922
+    second: Shimmering Pixel Art Components_50
+  - first:
+      213: -5641923663383264570
+    second: Shimmering Pixel Art Components_51
+  - first:
+      213: -4625831524968514904
+    second: Shimmering Pixel Art Components_52
+  - first:
+      213: 2454012753853787251
+    second: Shimmering Pixel Art Components_53
+  - first:
+      213: -2440275166298119849
+    second: Shimmering Pixel Art Components_54
+  - first:
+      213: -5321282055386120914
+    second: Shimmering Pixel Art Components_55
+  - first:
+      213: -4273072598885905926
+    second: Shimmering Pixel Art Components_56
+  - first:
+      213: 2275949606341883956
+    second: Shimmering Pixel Art Components_57
+  - first:
+      213: -5001415480466173848
+    second: Shimmering Pixel Art Components_58
+  - first:
+      213: -212161685414876566
+    second: Shimmering Pixel Art Components_59
+  - first:
+      213: -5912388416565779562
+    second: Shimmering Pixel Art Components_60
+  - first:
+      213: -7886799890809305843
+    second: Shimmering Pixel Art Components_61
+  - first:
+      213: -8458502649131171370
+    second: Shimmering Pixel Art Components_62
+  - first:
+      213: 1125340094435294438
+    second: Shimmering Pixel Art Components_63
+  - first:
+      213: -7725646743243613844
+    second: Shimmering Pixel Art Components_64
+  - first:
+      213: 8590717831866420882
+    second: Shimmering Pixel Art Components_65
+  - first:
+      213: 6221268328249640908
+    second: Shimmering Pixel Art Components_0
+  - first:
+      213: -8934828253414899513
+    second: Shimmering Pixel Art Components_1
+  - first:
+      213: -367566560713539851
+    second: Shimmering Pixel Art Components_2
+  - first:
+      213: 8437960494000352245
+    second: Shimmering Pixel Art Components_3
+  - first:
+      213: -4436888036441470300
+    second: Shimmering Pixel Art Components_4
+  - first:
+      213: 2588698780225107009
+    second: Shimmering Pixel Art Components_6
+  - first:
+      213: 8553839156403911842
+    second: Shimmering Pixel Art Components_7
+  - first:
+      213: -523195839142870983
+    second: Shimmering Pixel Art Components_8
+  - first:
+      213: -56841029611210021
+    second: Shimmering Pixel Art Components_9
+  - first:
+      213: -1106060970196253346
+    second: Shimmering Pixel Art Components_10
+  - first:
+      213: 3607047132996058100
+    second: Shimmering Pixel Art Components_13
+  - first:
+      213: -5758233902657983975
+    second: Shimmering Pixel Art Components_14
+  - first:
+      213: 4676168591730758693
+    second: Shimmering Pixel Art Components_15
+  - first:
+      213: -4172855441846524289
+    second: Shimmering Pixel Art Components_16
+  - first:
+      213: 483756820629808021
+    second: Shimmering Pixel Art Components_17
+  - first:
+      213: -2025464185912702029
+    second: Shimmering Pixel Art Components_18
+  - first:
+      213: 8125801339266180388
+    second: Shimmering Pixel Art Components_19
+  - first:
+      213: -8492982257538530997
+    second: Shimmering Pixel Art Components_20
+  - first:
+      213: 796401939088858020
+    second: Shimmering Pixel Art Components_21
+  - first:
+      213: -5038080917076750200
+    second: Shimmering Pixel Art Components_22
+  - first:
+      213: 5345136202609928587
+    second: Shimmering Pixel Art Components_23
+  - first:
+      213: 8056347269453455897
+    second: Shimmering Pixel Art Components_24
+  - first:
+      213: 2370621578741574866
+    second: Shimmering Pixel Art Components_25
+  - first:
+      213: -8245926625883768789
+    second: Shimmering Pixel Art Components_26
+  - first:
+      213: 345472700930357929
+    second: Shimmering Pixel Art Components_27
+  - first:
+      213: -375651065298898918
+    second: Shimmering Pixel Art Components_28
+  - first:
+      213: 3327585051147451228
+    second: Shimmering Pixel Art Components_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dadDown
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 140
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1ab7ce50ef31c20800000000000000
+      internalID: 3176161463622148533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dadRight
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 140
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213037ad15f6d9b20800000000000000
+      internalID: 3142790512322478866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dadUp
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 139
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a270d8dcb0fe2200800000000000000
+      internalID: 157327730886603431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dadLeft
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 140
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27a8eabda99fab10800000000000000
+      internalID: 1994982131392620334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shimmering Pixel Art Components_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 165
+        width: 101
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f224c3911eb9f10800000000000000
+      internalID: 2277661535067320190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottomLeftSon
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 145
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57976863260c726f0800000000000000
+      internalID: -709386888233453195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topLeftSon
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 160
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eae15e45a8eab730800000000000000
+      internalID: 4015777814435457764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottomRightSon
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 145
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcf4da812e503380800000000000000
+      internalID: -8993584957702734663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topRightSon
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 160
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ad767a065c13130800000000000000
+      internalID: 3544831400633424384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shimmering Pixel Art Components_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 164
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4f0e787d0768450800000000000000
+      internalID: 6090679617065120957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodTracksB
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 60
+        width: 17
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82d816b81492e740800000000000000
+      internalID: 5179865355284697741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shimmering Pixel Art Components_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b26248073dbe80800000000000000
+      internalID: -8161306441112440727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shimmering Pixel Art Components_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 103
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494b17308b14f37b0800000000000000
+      internalID: -5242399182648396652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shimmering Pixel Art Components_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05658add214cc4ed0800000000000000
+      internalID: -2428350513752287664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonDown
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 100
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca646548cd8bc8490800000000000000
+      internalID: -7742610402104162644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonRight
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 100
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a856a446da23e8480800000000000000
+      internalID: -8895116493716822646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonUp
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 100
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88d8a2dae6ad1ce0800000000000000
+      internalID: -1432805578947110773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonLeft
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 100
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0685a8bd985c80880800000000000000
+      internalID: -8644442288853198752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shimmering Pixel Art Components_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 103
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31c2a2fd47b007e0800000000000000
+      internalID: -1801238305537081029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shimmering Pixel Art Components_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 104
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15881b1664197a700800000000000000
+      internalID: 551569210848938065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushBottomsA
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 12}
+        - {x: -10, y: -13}
+        - {x: 10, y: -13}
+        - {x: 10, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc1ead6e675bdaa0800000000000000
+      internalID: -6135213935564022581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodTracksA
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 62
+        width: 80
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e97717c5f5cdda80800000000000000
+      internalID: -8440372467224577567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shimmering Pixel Art Components_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 60
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c81c1eb2a5107860800000000000000
+      internalID: 7525538766054496456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushBottomsB
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10, y: 13}
+        - {x: -10, y: -13}
+        - {x: 10, y: -13}
+        - {x: 10, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa091c1825e22030800000000000000
+      internalID: 3468586623461559028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bloodTr
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 21
+        width: 80
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa7c82579d5bc400800000000000000
+      internalID: 345472700930357929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushBodyA
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 21
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a37b35fb6c6acf10800000000000000
+      internalID: 2290762571402933152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bushBodyB
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 20
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 12.5}
+        - {x: -11, y: -12.5}
+        - {x: 11, y: -12.5}
+        - {x: 11, y: 12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c5cc5a4161f92e0800000000000000
+      internalID: -2116949021904053221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
